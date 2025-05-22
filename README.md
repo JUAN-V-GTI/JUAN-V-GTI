@@ -33,7 +33,7 @@ Un desarrollador de software con experiencia en herramientas, lenguajes y metodo
 ## 🚀 Contacto
 Si deseas saber más sobre mí o colaborar en proyectos, puedes encontrarme en juanevaristovelasco2016@gmail.com .
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 
 
 
